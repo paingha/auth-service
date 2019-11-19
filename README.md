@@ -2,6 +2,6 @@
 
 ## Todo:
 
-### Add Template support for verification email
-### Add Job queue for sending emails
-### Add Admin routes
+#### Add Template support for verification email
+#### Add Job queue for sending emails
+#### Add Admin routes
