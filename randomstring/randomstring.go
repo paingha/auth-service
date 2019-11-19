@@ -22,5 +22,3 @@ func StringWithCharset(length int, charset string) string {
 func GenerateRandomString(n int) string {
 	return StringWithCharset(n, charset)
 }
-
-//BUG: does not generate a unique number
