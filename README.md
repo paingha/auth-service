@@ -11,3 +11,6 @@
 #### Add Template support for verification email
 #### Add Job queue for sending emails
 #### Add Admin routes
+
+
+###### Website: http://paingha.me Twitter: https://twitter.com/painghajnr
